@@ -1,0 +1,6 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.4
+requests==2.31.0
+curl_cffi==0.6.0b9
+python-dotenv==1.0.1
